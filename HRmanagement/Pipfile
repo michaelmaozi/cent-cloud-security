@@ -1,0 +1,28 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+pytest = "*"
+
+[packages]
+mysqlclient = "*"
+django-pure-pagination = "*"
+django-simple-captcha = "*"
+django-crispy-forms = "*"
+django-import-export = "*"
+django-reversion = "*"
+django-formtools = "*"
+future = "*"
+httplib2 = "*"
+six = "*"
+xlwt = "*"
+requests = "*"
+Django = "==2.2"
+Pillow = "*"
+XlsxWriter = "*"
+
+[requires]
+python_version = "3.7"

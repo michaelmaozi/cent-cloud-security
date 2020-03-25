@@ -1,0 +1,13 @@
+# Local Enviroments
+.vscode/*
+
+.env
+env/
+
+.venv
+venv/
+
+
+Pipfile
+
+Pipfile.lock

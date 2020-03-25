@@ -19,7 +19,7 @@
 
 #### How to set up and run HRmanagement on your local
 
-1. install python 3.7 + 
+1. install [python 3.7 +](https://www.python.org/) 
 2. install [pipenv](https://github.com/pypa/pipenv) - a virtual environment tool
 3. download or git clone this project repository
 4. Open your terminal and follow the listed commands below:
